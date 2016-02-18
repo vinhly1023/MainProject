@@ -1,0 +1,3 @@
+[submodule "SubProject"]
+	path = SubProject
+	url = https://github.com/vinhly1023/SubProject
